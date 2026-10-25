@@ -1,5 +1,5 @@
 # Drift Studio
-[Launch Drift Studio](https://github.com/dougalder/drift-studio/drift-studio.html)
+[Launch Drift Studio](https://github.com/dougalder/drift-studio/)
 **Version 2.4.0**
 
 Drift Studio paints motion into a still photo. You brush arrows over the parts of the picture that should move, such as clouds, water, or grass, and the app turns them into a seamless loop that repeats forever. You can freeze anything that must stay still, like a person or a building, and then export the loop as an MP4 video or an animated GIF.
